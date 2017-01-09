@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+Day 1: Sunday, January 8, 2017
+       Completed at time: 7:40pm
+
+Today's Progress: Today I started my tribute page project for Free Code Camp, which I had been avoiding since October. I added headers, content in the form of a list (the timeline), a couple quotes, a photo at the top and a couple links at the bottom. I also chose the color scheme based on wanting a strong red-hued color in the background. I used a color combo website to find colors that would go well together rather than finding random colors that look kind of weird together. I tried to do some centering, but it didn't go well, and I'm going to leave that to another day.
+
+Thoughts: At first it was really hard to start. It actually took an extra hour than when I tried to start (plus some coloring in my new coloring book). Once I was relaxed I opened the laptop again and although I didn't want to do it, I did. I let myself just set up the html and content without worrying about the styling yet, and that made it easier and I ended up in a flow for about 50 minutes.
+
+Link to today's work: http://codepen.io/juliesof/pen/EZVPaj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Examples
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
