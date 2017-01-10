@@ -10,6 +10,16 @@ Thoughts: At first it was really hard to start. It actually took an extra hour t
 Link to today's work: http://codepen.io/juliesof/pen/EZVPaj
 
 
+Day 2: Monday, January 9, 2017
+       Completed at: 11:00pm
+
+Today's progress: I decided my Tribute Page looked good and I decided I was done with it. I started on my portfolio page. It took at least 30 minutes to trouble shoot why the background color of the header div wasn't appearing, or only appearing for the menu list. At the last minute I realized it may have to do with the floats, and this turned out to be the case. The float takes the elements out of the doc's flow, and you need to include overflow: auto or hidden - although I don't know what those two properties do. So in 45 minutes I pretty much added a background color. But that's often how it goes.
+
+Thoughts: I was bummed and annoyed with myself for most of the time I was fighting with the non-appearing color. Then when I figured it out - I felt relieved and good.
+
+Link to today's work: http://codepen.io/juliesof/pen/KadEyQ
+
+
 
 
 
